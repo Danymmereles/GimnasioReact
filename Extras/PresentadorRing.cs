@@ -37,7 +37,7 @@ namespace Gimnasio
         
         public int esEntrenadorDe(Entrenador entrenador, Boxeador boxeador){
             for(int i = 0; i < entrenador.listaParaEntrenar.Count; i++){
-                if (entrenador.listaParaEntrenar[i] == boxeador){
+                if (entrenador.listaParaEntrenar[i].Equals(boxeador)){
                     return 1;
                 }
             }

@@ -22,7 +22,7 @@ namespace Gimnasio {
         public void agregarBoxeador (Boxeador boxeador) {
             if (this.listaParaEntrenar.Count < 5) {
                 this.listaParaEntrenar.Add(new Boxeador());
-                this.listaParaEntrenar[this.listaParaEntrenar.Count-1] = boxeador;
+                this.listaParaEntrenar[this.listaParaEntrenar.Count-1].cargarDatos(boxeador);
             } else {
                 Console.WriteLine ("Lo lamentamos pero no queremos que el entrenador muera de estres");
             }

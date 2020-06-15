@@ -9,3 +9,16 @@ C:\Users\Franco Mereles\Desktop\Curso React\Gimnasio\obj\Debug\netcoreapp3.1\Gim
 C:\Users\Franco Mereles\Desktop\Curso React\Gimnasio\obj\Debug\netcoreapp3.1\Gimnasio.AssemblyInfo.cs
 C:\Users\Franco Mereles\Desktop\Curso React\Gimnasio\obj\Debug\netcoreapp3.1\Gimnasio.dll
 C:\Users\Franco Mereles\Desktop\Curso React\Gimnasio\obj\Debug\netcoreapp3.1\Gimnasio.pdb
+C:\Users\matia\Desktop\GimnasioReact\bin\Debug\netcoreapp3.1\Gimnasio.exe
+C:\Users\matia\Desktop\GimnasioReact\bin\Debug\netcoreapp3.1\Gimnasio.deps.json
+C:\Users\matia\Desktop\GimnasioReact\bin\Debug\netcoreapp3.1\Gimnasio.runtimeconfig.json
+C:\Users\matia\Desktop\GimnasioReact\bin\Debug\netcoreapp3.1\Gimnasio.runtimeconfig.dev.json
+C:\Users\matia\Desktop\GimnasioReact\bin\Debug\netcoreapp3.1\Gimnasio.dll
+C:\Users\matia\Desktop\GimnasioReact\bin\Debug\netcoreapp3.1\Gimnasio.pdb
+C:\Users\matia\Desktop\GimnasioReact\obj\Debug\netcoreapp3.1\Gimnasio.csprojAssemblyReference.cache
+C:\Users\matia\Desktop\GimnasioReact\obj\Debug\netcoreapp3.1\Gimnasio.AssemblyInfoInputs.cache
+C:\Users\matia\Desktop\GimnasioReact\obj\Debug\netcoreapp3.1\Gimnasio.AssemblyInfo.cs
+C:\Users\matia\Desktop\GimnasioReact\obj\Debug\netcoreapp3.1\Gimnasio.csproj.CoreCompileInputs.cache
+C:\Users\matia\Desktop\GimnasioReact\obj\Debug\netcoreapp3.1\Gimnasio.dll
+C:\Users\matia\Desktop\GimnasioReact\obj\Debug\netcoreapp3.1\Gimnasio.pdb
+C:\Users\matia\Desktop\GimnasioReact\obj\Debug\netcoreapp3.1\Gimnasio.genruntimeconfig.cache

@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Franco Mereles\\Desktop\\Curso React\\Gimnasio\\Gimnasio.csproj": {}
+    "C:\\Users\\matia\\Desktop\\GimnasioReact\\Gimnasio.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Franco Mereles\\Desktop\\Curso React\\Gimnasio\\Gimnasio.csproj": {
+    "C:\\Users\\matia\\Desktop\\GimnasioReact\\Gimnasio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Franco Mereles\\Desktop\\Curso React\\Gimnasio\\Gimnasio.csproj",
+        "projectUniqueName": "C:\\Users\\matia\\Desktop\\GimnasioReact\\Gimnasio.csproj",
         "projectName": "Gimnasio",
-        "projectPath": "C:\\Users\\Franco Mereles\\Desktop\\Curso React\\Gimnasio\\Gimnasio.csproj",
-        "packagesPath": "C:\\Users\\Franco Mereles\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Franco Mereles\\Desktop\\Curso React\\Gimnasio\\obj\\",
+        "projectPath": "C:\\Users\\matia\\Desktop\\GimnasioReact\\Gimnasio.csproj",
+        "packagesPath": "C:\\Users\\matia\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\matia\\Desktop\\GimnasioReact\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Franco Mereles\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\matia\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -50,7 +50,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
         }
       }
     }
